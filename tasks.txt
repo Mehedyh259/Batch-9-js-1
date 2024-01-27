@@ -1,0 +1,7 @@
+1. veriables
+2. data types
+3. variable naming conventions
+4. if else statements
+5. ternary statements
+6. array
+
